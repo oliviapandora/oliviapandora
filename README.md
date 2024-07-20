@@ -8,11 +8,11 @@ About
 For more info about my learning process and current projects, head over to my DEV profile
 
 
-✏️Currently Learning
+✏️Currently Learning:
 Python
 
-📒Favorite Learning Resource
+📒Favorite Learning Resource:
 freeCodeCamp
 
-🎧Artist I Listen to while coding
+🎧Artist I Listen to while coding:
 Dua Lipa
