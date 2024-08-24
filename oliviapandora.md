@@ -1,5 +1,5 @@
 # README!
-![intro_olivia_pandora_stokes](https://github.com/user-attachments/assets/15cc59f4-1430-426c-9f84-372cdae4a238)
+![intro_olivia_pandora_stokes](https://github.com/user-attachments/assets/1e3576e4-b63d-4789-b52b-67785a9e496a)
 ![olivia_pandora](https://github.com/user-attachments/assets/2aea88c7-2776-4095-a3ee-8a2435dbec62)
 
 
