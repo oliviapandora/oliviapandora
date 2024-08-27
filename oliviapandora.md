@@ -3,7 +3,7 @@
 ![olivia_pandora](https://github.com/user-attachments/assets/2aea88c7-2776-4095-a3ee-8a2435dbec62)
 
 
-<h2>Marketing Strategist who decided to start coding. I'm exploring the intersection between modern marketing + tech</h2>
+<h2>Marketing Strategist who decided to start coding/h2>
 
 <p>While working on my first portfolio I realized my lack of technical skills was restricting my creativity. Website templates are improving as time goes by, but I craved more flexibility. Then I began to wonder: How would my website look if I could to code? Starting with HTML and CSS, I used freeCodeCamp's Responsive Web Design Certification to learn. During this time, I discovered my passion for cybersecurity and data security. After finishing my freeCodeCamp certification, I decided to learn Python because of it versatility.
 I started with Python Principles and am currently working through freeCodeCamp’s course and some additional small projects (both Python + frond-end)
