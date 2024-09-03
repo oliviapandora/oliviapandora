@@ -7,7 +7,7 @@
 <p>While working on my first portfolio I realized my lack of technical skills was restricting my creativity. Website templates are improving as time goes by, but I craved more flexibility. Then I began to wonder: How would my website look if I could to code? Starting with HTML and CSS, I used freeCodeCamp's Responsive Web Design Certification to learn. During this time, I discovered my passion for cybersecurity and data security. After finishing my freeCodeCamp certification, I decided to learn Python because of it versatility.
 I started with Python Principles and am currently working through freeCodeCamp’s course and some additional small projects (both Python + frond-end)
 
-Honestly, what I enjoy the most about coding is the ability to solve complex problems. It keeps me on my toes and encourages me to work outside of my comfort zone!</p>
+Honestly, what I enjoy the most about coding is the ability to solve complex problems. It keeps me on my toes and encourages me to work outside of my comfort zone! I'm inviting you to stay curious and keep asking good questions.</p>
 
 
 
