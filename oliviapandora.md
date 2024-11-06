@@ -10,7 +10,6 @@ I started with a <a href="https://pythonprinciples.com/">Python Principles cours
 What I enjoy the most about coding is the ability to solve complex problems.  It keeps me on my toes and encourages me to think outside of my comfort zone! <i>I'm inviting you to stay curious and keep asking good questions.</i></p>
 
 
-
 ✏️Currently Learning
 Python
 
