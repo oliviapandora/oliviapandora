@@ -1,6 +1,6 @@
 # README!
-![intro_olivia_pandora_stokes](https://github.com/user-attachments/assets/1e3576e4-b63d-4789-b52b-67785a9e496a)
-![olivia_pandora_stokes](https://github.com/user-attachments/assets/7a29e5a4-4559-42bc-842e-572d27df63a0)
+![alt="Olivia Pandora Marketing Strategist and Software Developer" intro_olivia_pandora_stokes](https://github.com/user-attachments/assets/1e3576e4-b63d-4789-b52b-67785a9e496a)
+![alt="hand typing on a pink computer keyboard" olivia_pandora_stokes](https://github.com/user-attachments/assets/7a29e5a4-4559-42bc-842e-572d27df63a0)
 
 <div id="about-oliviapandora">
 <h2>✨Curiosity led me to programming</h2>
@@ -22,10 +22,10 @@ Dua Lipa or Vivaldi
 <div id="contact-oliviapandora">
 <h3>Let's stay in touch ↩️ </h3>
 <a href="https://www.linkedin.com/in/oliviapandorastokes/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Contact"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Contact Olivia Pandora Stokes"/>
 </a>
 <a href="https://codepen.io/oliviapandora">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen-Profile"/>
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Profile Olivia Pandora Stokes"/>
 </a>
 
 </div>
