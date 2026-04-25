@@ -4,13 +4,13 @@
 
 <div id="about-oliviapandora">
 <h2>✨Curiosity led me to programming</h2>
-<p>While working on my first digital portfolio I realized my lack of technical skills was restricting my creativity. Website templates are improving as time goes by, but I craved more flexibility. Then I began to wonder: How would my website look if I could write the code myself? Starting with HTML and CSS, I used freeCodeCamp's Responsive Web Design Certification to learn. During this time, I discovered my passion for cybersecurity and data security. After finishing my freeCodeCamp certification, I decided to learn Python because of its versatility. I started with a <a href="https://pythonprinciples.com/">Python Principles course</a> and am currently working through <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">freeCodeCamp’s new Scientific Computing with Python course</a> along with additional small projects (including both Python + front-end). As I continue programming, I want to create projects that are accessible, intuitive, and secure. 
+<p>While working on my first digital portfolio I realized my lack of technical skills was restricting my creativity. Website templates are improving as time goes by, but I craved more flexibility. Then I began to wonder: How would my website look if I could write the code myself? Starting with HTML and CSS, I used freeCodeCamp's Responsive Web Design Certification to learn. During this time, I discovered my passion for cybersecurity and data security. After finishing my freeCodeCamp certification, I decided to learn Python because of its versatility. I started with a <a href="https://pythonprinciples.com/">Python Principles course</a> and am currently working through some of freeCodeCamp's new material along with additional small projects (including both Python + front-end). As I continue programming, I want to create projects that are accessible, intuitive, and secure. 
 
 What I enjoy the most about coding is the ability to solve complex problems.  It keeps me on my toes and encourages me to think outside of my comfort zone! <i>I'm inviting you to stay curious and keep asking good questions.</i></p>
 
 
 ✏️Currently Learning<br>
-Python
+Python + JavaScript
 
 📒Favorite Learning Resource<br>
 freeCodeCamp
